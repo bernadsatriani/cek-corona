@@ -14,7 +14,14 @@
     <link href="assets/plugins/feather-icons/feather.css" rel="stylesheet">
     <link rel="stylesheet" type="text/css" href="assets/css/app.css">
     <!-- Global site tag (gtag.js) - Google Analytics -->
+    <script async src="https://www.googletagmanager.com/gtag/js?id=UA-162237944-1"></script>
+    <script>
+    window.dataLayer = window.dataLayer || [];
+    function gtag(){dataLayer.push(arguments);}
+    gtag('js', new Date());
 
+    gtag('config', 'UA-162237944-1');
+    </script>
 
     <!-- JS -->
     <script src="https://code.jquery.com/jquery-3.3.1.min.js"></script>
