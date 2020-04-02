@@ -266,6 +266,9 @@ body.intro #intro{
 }
 /* RESPONSIVE */
 @media (max-width: 768px){
+    #intro h1{
+        font-size:2rem;
+    }
     #quiz{
         height:auto;
     }

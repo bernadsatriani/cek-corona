@@ -42,13 +42,13 @@
         </div>
         <div class="container h-100">
             <div class="row h-100 py-5 py-lg-0">
-                <div class="col-md-6 d-flex align-items-center order-1 order-md-0 mt-5 mt-md-0" style="margin-top: 20px !important;">
+                <div class="col-md-6 d-flex align-items-center order-1 order-md-0 mt-5 mt-md-0">
                     <div class="text-center text-lg-left">
                         <h1 class="font-weight-black mb-4">SELF ASSESSMENT COVID19</h1>
                         <p>
                             Ini adalah alat uji sederhana berbasis website untuk bisa membantu merekomendasikan apakah kamu perlu melakukan pemeriksaan, mengisolasi diri ataupun pengujian lebih lanjut.
                         </p>
-                        <button class="btn-start btn btn-info py-3 px-5 shadow mt-5"><h5 class="m-0">Mulai</h5></button>
+                        <button class="btn-start btn btn-info py-3 px-5 shadow mt-3 mt-lg-5"><h5 class="m-0">Mulai</h5></button>
                     </div>
                 </div>
                 <div class="col-md-6 d-flex align-items-center">
