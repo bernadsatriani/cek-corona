@@ -44,9 +44,11 @@
             <div class="row h-100 py-5 py-lg-0">
                 <div class="col-md-6 d-flex align-items-center order-1 order-md-0 mt-5 mt-md-0">
                     <div class="text-center text-lg-left">
-                        <h1 class="font-weight-black mb-4">CORONA19 TEST</h1>
+                        <h1 class="font-weight-black mb-4">SELF ASSESSMENT COVID19</h1>
                         <p>
-                            Lorem ipsum dolor, sit amet consectetur adipisicing elit. Quos veritatis inventore dolorum, nihil libero nesciunt sequi distinctio amet dolores accusantium!
+                            Self Assessment COVID19 ini adalah alat uji sederhana berbasis website untuk bisa membantu merekomendasikan apakah kamu perlu melakukan pemeriksaan, mengisolasi diri ataupun pengujian lebih lanjut.
+                            <br>
+                            Yuk, cek kondisi kamu sekarang!
                         </p>
                         <button class="btn-start btn btn-info py-3 px-5 shadow mt-5"><h5 class="m-0">Mulai</h5></button>
                     </div>
@@ -63,9 +65,9 @@
             <div class="col-lg-3 bg-light d-flex align-items-center quiz-sidebar">
                 <div class="info text-center p-4">
                     <div class="image mb-4"><img src="assets/images/background/sidebar-img.svg" alt="" width="100" height="auto"></div>
-                    <h5 class="font-weight-bold mb-4">MENGAPA TEST INI PENTING!</h5>
+                    <h5 class="font-weight-bold mb-4">MENGAPA PENGUJIAN INI PENTING!</h5>
                     <p>
-                        Lorem ipsum dolor sit, amet consectetur adipisicing elit. Nisi numquam reiciendis optio aspernatur illo omnis quos enim maiores quaerat. Tempore laborum provident sapiente quos. Ad similique fugit ab dignissimos tenetur.
+                        Kini, dunia sedang melawan virus yang sangat cepat persebarannya. Mendeteksi lebih awal gejala Virus Corona akan meminimalisir penyebaran virus ini. 
                     </p>
                 </div>
             </div>
