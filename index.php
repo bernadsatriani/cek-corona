@@ -47,8 +47,6 @@
                         <h1 class="font-weight-black mb-4">SELF ASSESSMENT COVID19</h1>
                         <p>
                             Self Assessment COVID19 ini adalah alat uji sederhana berbasis website untuk bisa membantu merekomendasikan apakah kamu perlu melakukan pemeriksaan, mengisolasi diri ataupun pengujian lebih lanjut.
-                            <br>
-                            Yuk, cek kondisi kamu sekarang!
                         </p>
                         <button class="btn-start btn btn-info py-3 px-5 shadow mt-5"><h5 class="m-0">Mulai</h5></button>
                     </div>
