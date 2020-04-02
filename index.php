@@ -42,7 +42,7 @@
         </div>
         <div class="container h-100">
             <div class="row h-100 py-5 py-lg-0">
-                <div class="col-md-6 d-flex align-items-center order-1 order-md-0 mt-5 mt-md-0">
+                <div class="col-md-6 d-flex align-items-center order-1 order-md-0 mt-5 mt-md-0" style="margin-top: 20px !important;">
                     <div class="text-center text-lg-left">
                         <h1 class="font-weight-black mb-4">SELF ASSESSMENT COVID19</h1>
                         <p>
